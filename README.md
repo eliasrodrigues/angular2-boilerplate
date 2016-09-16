@@ -4,6 +4,8 @@
 This repository is my acts as a very simple Angular 2 Boilerplate for my projects and was based on the project [Angular 2 Beta Boilerplate](https://github.com/mschwarzmueller/angular-2-beta-boilerplate) by **Maximilian**.
 It is derived from the official Angular 2 Documentation which can be found [here](https://angular.io/docs/ts/latest/quickstart.html).
 
+A mix between the Angular 2 Beta Boilerplate and HTML5Boilerplate.
+
 ## Usage
 Follow the following steps and you're good to go! Important: Typescript and npm has to be installed on your machine!
 
