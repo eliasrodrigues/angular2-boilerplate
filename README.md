@@ -1,8 +1,8 @@
 # Angular 2 Beta Boilerplate
 
 ## Description
-This repository is my acts as a very simple Angular 2 Boilerplate for my projects and was based on the project [Angular 2 Beta Boilerplate](https://github.com/mschwarzmueller/angular-2-beta-boilerplate) by **Maximilian**.
-It is derived from the official Angular 2 Documentation which can be found [here](https://angular.io/docs/ts/latest/quickstart.html).
+This repository is a very simple Angular 2 Boilerplate for my projects and was based on the repository [Angular 2 Beta Boilerplate](https://github.com/mschwarzmueller/angular-2-beta-boilerplate) by **Maximilian**.
+which it's derived from the official Angular 2 Documentation which can be found [here](https://angular.io/docs/ts/latest/quickstart.html).
 
 A mix between the Angular 2 Beta Boilerplate and HTML5Boilerplate.
 
